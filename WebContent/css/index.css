@@ -1,0 +1,132 @@
+.btn-primary{margin-top:40px;width:70px;height:30px;border-radius:5px;background-color:#808080;color:#FFFFFF;}
+.btn-advance{margin-top:40px;width:130px;height:30px;border-radius:5px;background-color:#808080;color:#FFFFFF;}
+#Search{height:23px;border-radius:5px;}
+.loginborder{height:23px;border-radius:5px;width:230px;}
+.signupborder{height:23px;border-radius:5px;width:230px;}
+.adminlogborder{height:23px;border-radius:5px;width:230px;}
+.adsearchborder{height:23px;border-radius:5px;width:230px;}
+.menu-box a{
+	text-decoration:none;
+	border:1px solid #fff;
+	display:inline-block;
+	padding:5px 10px;
+	color:;
+	background-color:#ffffff;border-radius:5px;	
+}
+.menu-box a:hover{
+	border:1px solid #ffffff;
+	color:	#ffffff;
+	background-color:#FF0000;border-radius:5px;
+}
+menu-box{float��left}
+body{
+	padding:0px;
+	margin:0px;
+	background-color:#FFFFFF;
+}
+.submit {
+	border:1px solid #fff;
+	padding:5px 10px;
+	color:#000000;
+	background-color:	#90EE90;border-radius:5px;
+	margin-left:80px;
+	margin-right:40px;	
+}
+.ban {
+	border:1px solid #fff;
+	padding:5px 10px;
+	color:#ffffff;
+	background-color:	#ff0000;border-radius:5px;
+}
+.adsubmit{
+	border:1px solid #fff;
+	padding:5px 10px;
+	color:#000000;
+	background-color:#00ff40;border-radius:5px;
+	margin-left:600px;
+	margin-right:40px;
+}
+.postsubmit{
+	border:1px solid #fff;
+	padding:5px 20px;
+	color:#32CD32;
+	background-color:#7B68EE;border-radius:5px;
+	margin-left:800px;
+	margin-right:40px;
+}
+.resultsubmit{
+	border:1px solid #fff;
+	padding:5px 20px;
+	color:#32CD32;
+	background-color:#7B68EE;border-radius:5px;
+	margin-left:800px;
+	margin-right:40px;
+}
+.homepage{
+	text-align: center;
+	margin-top: 130px;
+}
+.logtable{
+	margin: 60px auto;
+}
+.logtable tr td{
+	padding:20px 0;
+}
+.logtitle {
+	text-align: center;
+}
+.signuptable {
+	margin: 0px auto;
+}
+.signuptable tr td{
+	padding:6px 0;
+
+}
+.signup {
+	text-align: center;
+}
+.pad60{
+	padding-left:60px;
+	background-color:#B0C4DE;
+	width:30%;
+}
+.edit {margin-top:40px;width:70px;height:30px;border-radius:5px;background-color:#B0C4DE;color:#fff;}
+.adminlogtable{
+	margin: 60px auto;
+}
+.adminlogtable tr td{
+	padding:20px 0;
+}
+.adminlog {
+	text-align: center;
+}
+.adminprofile{
+	text-align: center;
+}
+.adsearch{
+	text-align: center;
+}
+.adsearchtable{
+	margin: 30px auto;
+	text-align: center;
+}
+.post{
+	text-align: center;
+}
+.adprofile{
+	text-align: center;
+	margin-top: 130px;
+}
+.adprofile tr td{
+	padding:20px 0;
+}
+.share{
+	text-align: center;
+}
+.result{
+	text-align: center;
+}
+.resulttable{
+	text-align: center;
+	margin: 60px auto;
+}
